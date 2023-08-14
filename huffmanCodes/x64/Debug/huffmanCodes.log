@@ -1,0 +1,7 @@
+﻿cl : linha de comando  warning D9025: substituindo '/sdl' com '/GS-'
+  main.c
+C:\Users\Vinicius Araujo\Documents\Apuc\trabalhos\3 periodo\huffmanCodes\huffmanCodes\main.c(22,17): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Vinicius Araujo\Documents\Apuc\trabalhos\3 periodo\huffmanCodes\huffmanCodes\main.c(106,18): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Vinicius Araujo\Documents\Apuc\trabalhos\3 periodo\huffmanCodes\huffmanCodes\main.c(128,18): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Vinicius Araujo\Documents\Apuc\trabalhos\3 periodo\huffmanCodes\huffmanCodes\main.c(149,18): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  huffmanCodes.vcxproj -> C:\Users\Vinicius Araujo\Documents\Apuc\trabalhos\3 periodo\huffmanCodes\x64\Debug\huffmanCodes.exe
